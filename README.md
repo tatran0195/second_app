@@ -1,5 +1,3 @@
-# second_app
-# second_app
-# second_app
-# second_app
-# second_app
+# The second app made by Ta Tran
+# Purpose:
+> 
